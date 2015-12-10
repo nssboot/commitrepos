@@ -17,9 +17,7 @@ $(document).ready(function(){
         }
       },
       
-      debugger
-
-      /*
+     /*
 
       $.ajax({
       type: "GET",
